@@ -9,10 +9,13 @@
 
 Thai Citizen ID is a library for validation, extract and generate thai citizen id.
 
+## Data source
+
+ข้อมูลอำเภอ [update_at: 3/3/2023]: [Link](https://std.moc.go.th/std/codelist_detail/27)
+
+ข้อมูลเกี่ยวกับเลขบัตรประชาชน : [Link](https://stat.bora.dopa.go.th/fop/pid13.htm)
+
 ## Check Description Locally
 
 To locally check whether your long descriptions will render on PyPI, first
-build your distributions, and then use the |twine check|\_ command.
-
-.. |twine check| replace:: `twine check`
-.. \_twine check: https://packaging.python.org/guides/making-a-pypi-friendly-readme#validating-restructuredtext-markup
+build your distributions, and then use the [twine check](https://packaging.python.org/guides/making-a-pypi-friendly-readme#validating-restructuredtext-markup) command.
