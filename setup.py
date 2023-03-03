@@ -17,4 +17,12 @@ setuptools.setup(
     package_dir={"": "."},
     packages=['thai_citizen_id'],
     python_requires='>=3.6',
+     classifiers=[
+        'License :: OSI Approved :: GNU General Public License (GPL)',
+        'Programming Language :: Python :: 3.7',
+        'Programming Language :: Python :: 3.8',
+        'Programming Language :: Python :: 3.9',
+        'Programming Language :: Python :: 3.10',
+        'Programming Language :: Python :: 3.11',
+    ]
 )
