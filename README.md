@@ -1,7 +1,11 @@
 # Thai Citizen ID
 
-.. image:: https://badge.fury.io/py/readme-renderer.svg
-:target: https://badge.fury.io/py/readme-renderer
+<a href="https://pypi.python.org/pypi/thai-citizen-id" target="_blank">
+  <img src="https://img.shields.io/pypi/v/thai-citizen-id.svg" alt="PyPi">
+</a>
+<a href="https://pypi.org/project/thai-citizen-id" target="_blank">
+  <img src="https://img.shields.io/pypi/pyversions/thai-citizen-id" alt="PyPI - Python Version">
+</a>
 
 Thai Citizen ID is a library for validation, extract and generate thai citizen id.
 
